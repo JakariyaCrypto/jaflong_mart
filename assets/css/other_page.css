@@ -1,0 +1,69 @@
+ /*this is css not for index page*/
+
+
+
+
+
+
+@media(min-width: 769px)
+{
+ .slider-and-category {
+    position: absolute;
+    width: 100%;
+    z-index: 99999999999;
+}
+
+
+
+.header {
+    position: relative;
+} 
+
+.active-mob-menu {
+    display: block !important;
+}
+
+.custom-cols {
+
+    display: none;
+}
+
+
+.header-cat {
+	background: transparent !important;
+}
+
+.header-cat span i.fas {
+	color: white !important;
+}
+
+.header-cat:hover.header-cat span i.fas{
+	color: blue !important;
+}
+
+.header-cat:hover.header-cat span a{
+	color: blue !important;
+}
+
+.header-cat:hover {
+	background: white !important;
+}
+
+.desk-icon-active.header-cat span i.fas{
+	color: blue !important;
+}
+
+.desk-icon-active.header-cat span i.fas.fa-angle-up {
+	transform: rotate(176deg);
+}
+
+.desk-icon-active.header-cat span a{
+	color: blue !important;
+}
+
+.desk-icon-active{
+	background: white !important;
+}
+
+
+}

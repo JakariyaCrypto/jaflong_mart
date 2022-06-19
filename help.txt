@@ -1,0 +1,4 @@
+1/ first day => design header menu and slide
+2/ 2nd day => design category product,banner and footer
+3/ 3rd day => design mega menu and responsive 
+4/ 

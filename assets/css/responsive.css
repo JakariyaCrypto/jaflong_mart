@@ -1,0 +1,465 @@
+@media(max-width: 1030px)
+{
+
+.category-drop-list ul li {
+	padding: 3px 0px !important;
+}
+
+/*.category-drop-list ul li a {
+	font-size: 10px !important;
+}
+*/
+.category-drop-list ul li img {
+	width: 15px;
+	margin-right: 4px;
+}
+
+.category-drop-list ul li span {
+	font-size: 6px;
+	margin-left: 5px;
+
+}
+
+.category-drop-list ul li i.fas {
+	left: 140px !important;
+}
+
+
+
+}
+
+@media(min-width: 769px)
+{
+.destop-none{
+	display: none !important;
+}
+
+.mobile-serch-btn {
+	display: none !important;
+}
+
+
+}
+
+
+@media(max-width: 768px)
+{
+
+	.mobile-serch-btn {
+	display: none !important;
+}
+
+.swiper-button-next {
+	top: 38px !important;
+}
+
+.swiper-button-prev {
+	top: 38px !important;
+}
+
+/*mobile menu*/
+.custom-cols {
+	width: 100% !important;
+}
+
+.mega-menu {
+	position: static !important;
+	width: 100%;
+	visibility: visible !important;
+	background: transparent !important;
+	margin-left: 20px;
+}
+
+.category-drop-list > ul > li > a:hover {
+	color: blue;
+}
+
+.mega-menu-item {
+	text-align: left !important;
+	padding: 11px 0px !important;
+}
+
+.category-drop-list ul li a {
+	font-size: 14 !important;
+}
+
+.category-drop-list ul li i.fas {
+	transform: rotate(90deg);
+}
+
+.mega-menu-content {
+	padding: 0;
+	overflow: hidden;
+	margin-left: 31px !important;
+	margin-right: 0 !important;
+}
+.custom-cols {
+	width: 100% !important;
+	margin-left: -100px;
+	display: none;
+}
+
+.active-mob-menu {
+	margin-left: -12px !important;
+	display: block;
+}
+
+
+.mega-menu {
+	overflow: hidden !important;
+	display: none;
+}
+
+.active_menu_show{
+	display: block !important;
+}
+
+.menu_color_active{
+	background: #cfe2f3;
+}
+
+.mobile-angle-active{
+	transform: rotate(268deg) !important;
+}
+
+
+
+.category-drop-list ul li{
+	visibility: visible !important;
+}
+
+.category-drop-list ul li:hover {
+	background: #cfe2f3;
+}
+
+.custom-col-9 {
+	width: 100% !important;
+}
+
+.dropdown-menu.show {
+	width: 250px !important;
+	left: 3px !important;
+}
+
+
+
+.header-cat {
+	background: transparent !important;
+	padding-right: 50px;
+	padding-left: 0px !important;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	cursor: pointer;
+}
+
+.header-cat span a {
+	display: none;
+}
+
+.header-cat span i.fas {
+	font-size: 26px;
+	color: white !important;
+}
+
+.header-cat span i.fas.fa-angle-up {
+	display: none;
+}
+
+.banner img {
+	width: 100%;
+	height: 130px;
+}
+
+.custom-width {
+	max-width: 1200px;
+	position: relative !important;
+	padding: 0 27px;
+}
+
+.partner-item img {
+	width: 115px;
+	height: 60px;
+}
+
+.partner-item {
+	text-align: center;
+}
+
+.partner-item img {
+	width: 150px!important;
+	height: 60px;
+}
+
+
+.copy-right span {
+	font-size: 14px;
+}
+
+.slider-img img {
+	width: 100%;
+	height: 150px;
+}
+
+.custom-col-9 {
+	width: 100% !important;
+	margin: 0;
+	padding: 0 !important;
+}
+
+.slider-section {
+	margin-top: 2px;
+	margin-left: 10px !important;
+}
+
+/*grid view*/
+.custom-product.grid-view-item {
+	display: block !important;
+}
+
+.grid-view-img {
+	width: 100% !important;
+}
+
+.grid-view-mid {
+	width: 100% !important;
+}
+
+.grid-view-left {
+	width: 100% !important;
+}
+
+}
+
+@media(max-width: 575px)
+{
+
+.category-drop-list ul li i.fas {
+	left: 152px !important;
+}
+
+.category-drop-list ul li img {
+	width: 25px;
+}
+
+.category-drop-list ul li span {
+	font-size: 8px;
+	margin-left: 5px;
+}
+
+.cart-items {
+	overflow: ;
+	overflow-x: auto;
+	padding: 5px 20px;
+}
+
+.cart-shop-check-btn {
+	display: block !important;
+	text-align: center;
+}
+
+.check-btn {
+	margin-top: 32px;
+}
+
+.car-img {
+	width: 100px !important;
+}
+
+.cart-item {
+	left: 36px !important;
+}
+
+.mobile-serch-btn {
+	display: block !important;
+}
+
+.dropdown-menu.show {
+	width: 450px !important;
+	left: -67px !important;
+}
+
+.custom-item {
+	display: grid;
+	grid-template-columns: repeat(1,1fr);
+	width: 33.33%;
+}
+
+.custom-product{
+	display: grid;
+	grid-template-columns: repeat(1,1fr);
+	width: 50%;
+
+}
+.cat-item img {
+	width: 60px;
+}
+.partner-item img {
+	width: 150px!important;
+	height: 60px;
+}
+
+
+.footer-item {
+	text-align: center;
+}
+
+.footer-item {
+	mae: ;
+	margin-top: 10px;
+}
+
+.swiper-button-next, .swiper-button-prev {
+	top: 31% !important;
+	display: none !important;
+}
+
+.sm-none {
+	display: none !important;
+}
+
+.header-user ul li {
+	margin-left: 22px !important;
+}
+
+.mid-mobile {
+	display: none;
+}
+
+.mid-search {
+	position: absolute !important;
+	z-index: 999999;
+	right: 31px;
+	width: 280px !important;
+	border-radius: 0px !important;
+	top: 50px;
+	visibility: hidden;
+}
+
+.active-mob-serch{
+	top: 33px !important;
+	visibility: visible;
+	transition: .2s linear;
+}
+.header-mid-content {
+	position: relative;
+}
+
+.src-btn {
+	position: absolute;
+	top: 0px !important;
+	right: 5px;
+	border: none;
+	font-size: 18px;
+	height: 40px;
+}
+
+.src-btn {
+	background: white !important;
+}
+
+.mid-search {
+	width: 38%;
+	position: relative;
+}
+
+.mobile-serch-btn {
+	position: absolute;
+	right: 68px;
+	top: 33px;
+}
+
+.header-mid-content {
+
+	position: relative;
+}
+
+.top-right ul {
+	position: absolute;
+	top: 53px;
+	width: 200px;
+	right: 10px;
+	background: white;
+	padding: 10px;
+	z-index: 9999;
+	border-radius: .2rem;
+	visibility: hidden;
+}
+
+
+.active-mob-profile{
+	visibility: visible !important;
+	top: 38px !important;
+}
+
+
+.top-right ul li {
+	display: block !important;
+	text-align: center;
+}
+
+.profile a {
+	color: white;
+}
+
+.apply-coupon input {
+	width: 73% !important;
+}
+
+
+.shop-btn a {
+	padding: 10px 20px !important;
+}
+
+.check-btn a {
+	padding: 9px 20px !important;
+}
+
+
+}
+
+
+@media(max-width: 350px)
+{
+
+	.car-img {
+	width: 60px !important;
+}
+
+
+.custom-item {
+	display: grid;
+	grid-template-columns: repeat(1,1fr);
+	width: 50%;
+}
+
+.custom-product{
+	display: grid;
+	grid-template-columns: repeat(1,1fr);
+	width: 100%;
+
+}
+
+
+.slider-img img {
+	width: 100%;
+	height: 150px;
+}
+
+.custom-col-9 {
+	width: 100% !important;
+	margin: 0;
+	padding: 0 !important;
+}
+
+.slider-section {
+	margin-top: 2px;
+	margin-left: 10px !important;
+}
+
+.swiper-button-next, .swiper-button-prev {
+	top: 31% !important;
+	display: none !important;
+}
+
+
+}
